@@ -1,5 +1,19 @@
+
 # codeAssessment2
 #### Final Grade: 9.75/12
+
+1 Output off but mostly right
+
+2 good. great comments
+
+3 Not sure what happened here. Some solid pieces there as a start
+
+4 Didnt use string length in comparison like you should
+
+5 Didnt use instance to call methods. 
+
+6 Good and with comments
+
 ### Instructions
 Answer each question inside of the individual question files. Each file has the question paste inside of it.
 
